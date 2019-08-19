@@ -1,0 +1,17 @@
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\LitetouchConverter.exe.config
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\LitetouchConverter.exe
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\LitetouchConverter.pdb
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\obj\Debug\LitetouchConverter.csprojAssemblyReference.cache
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\obj\Debug\LitetouchConverter.MainWindow.resources
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\obj\Debug\LitetouchConverter.Properties.Resources.resources
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\obj\Debug\LitetouchConverter.csproj.GenerateResource.cache
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\obj\Debug\LitetouchConverter.csproj.CoreCompileInputs.cache
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\obj\Debug\LitetouchConverter.exe
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\obj\Debug\LitetouchConverter.pdb
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\System.CodeDom.dll
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\System.Data.SqlClient.dll
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matt\Documents\Projects\csharp\LitetouchConverter\LitetouchConverter\obj\Debug\LitetouchConverter.csproj.CopyComplete
